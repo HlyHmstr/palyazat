@@ -1,0 +1,11 @@
+C:\Users\infse20\source\repos\palyazat\palyazat\bin\Debug\palyazat.exe.config
+C:\Users\infse20\source\repos\palyazat\palyazat\bin\Debug\palyazat.exe
+C:\Users\infse20\source\repos\palyazat\palyazat\bin\Debug\palyazat.pdb
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.csproj.AssemblyReference.cache
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.Form1.resources
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.Properties.Resources.resources
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.csproj.GenerateResource.cache
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.csproj.CoreCompileInputs.cache
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.exe
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.pdb
+C:\Users\infse20\source\repos\palyazat\palyazat\obj\Debug\palyazat.ujPalyRog.resources
