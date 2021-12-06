@@ -40,11 +40,11 @@ namespace palyazat
             {
                 dgvMain.Rows.Clear();
                 c.Open();
-                var r = new SqlCommand("Select palyazat.id, sum(palyazat.tervezetA + palyazat.tervezetC), count(szamla.szamlaszam),sum(szamla.ertek) " +
+                var r = new SqlCommand("Select palyazat.id, (palyazat.tervezetA + palyazat.tervezetC), count(szamla.szamlaszam),sum(szamla.ertek) " +
                     "from koltsegtipus,palyazat,szamla " +
                     "where palyazat.id = szamla.palyazatId " +
                     "and szamla.koltsegtipusId = koltsegtipus.id " +
-                    "group by palyazat.id " +
+                    "group by palyazat.id,(palyazat.tervezetA + palyazat.tervezetC) " +
                     "order by palyazat.id ASC", c).ExecuteReader();
                 while (r.Read())
                 {
